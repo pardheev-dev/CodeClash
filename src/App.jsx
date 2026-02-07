@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 import './App.css'
-import gdgIcon from '../gdg-icon.svg'
+import gdgIcon from '/gdg-icon.svg'
 
 const questions = [
   {
